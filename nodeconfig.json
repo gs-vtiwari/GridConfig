@@ -20,13 +20,13 @@
   "configuration": {
     "nodeTimeout": 120,
     "port": 5555,
-    "hubPort": 4444,
-    "hubHost": "localhost",
+    "hubPort": 80,
+    "hubHost": "815d60f1.ngrok.io",
     "nodePolling": 2000,
     "registerCycle": 10000,
     "register": true,
     "cleanUpCycle": 2000,
     "timeout": 30000,
-    "maxSession": 1
+    "maxSession": 10
   }
 }
